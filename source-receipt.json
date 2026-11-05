@@ -1,0 +1,27 @@
+{
+  "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep",
+  "sourceBranch": "main",
+  "sourceCommit": null,
+  "media": [
+    {
+      "src": "assets/media/photo-1.webp",
+      "alt": "活动合影，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/5/202505261415044579.jpeg"
+    },
+    {
+      "src": "assets/media/photo-2.webp",
+      "alt": "校史展陈参观，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/4/202504211558413284.jpg"
+    },
+    {
+      "src": "assets/media/photo-3.webp",
+      "alt": "舞台演讲，来自绍兴一中公开图片归档",
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/4/202504090906467127.jpg"
+    }
+  ],
+  "skills": [
+    "baoyu-design",
+    "design-taste-frontend"
+  ],
+  "design": "content-first source/product/photography; no rejected template or faux 3D"
+}
