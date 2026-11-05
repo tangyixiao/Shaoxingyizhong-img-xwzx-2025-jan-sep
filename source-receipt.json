@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "莓红、奶白与公共展板的九个月目录：将讲台红色背景照片作为右侧高耸的主视觉，左侧以月份纵轴和两张横片形成错位节奏。版面像活动图录的封面，不是平均三列相册。事实边界：范围来自 2025 年 1—9 月分片，展示样本不能当作完整月度记录。",
+    "layout": "poster",
+    "palette": {
+      "light": {
+        "bg": "#ECDDE0",
+        "surface": "#FBF1E8",
+        "ink": "#482A35",
+        "muted": "#7d5a67",
+        "accent": "#a63357"
+      },
+      "dark": {
+        "bg": "#291720",
+        "surface": "#40222F",
+        "ink": "#FBE8E6",
+        "muted": "#c29aa9",
+        "accent": "#ef9ab6"
+      }
+    },
+    "threeConcept": "Three.js 制作莓红色三翼展板，照片以不同尺寸固定于板上，展板脚架与接缝构成真实空间物件；只三幅样本，不假装全年度展览。",
+    "distinctiveInteraction": "用拖拽旋转三翼展板，正面图同步进入可读图注区；月份导航只给现有文件路径入口，未选择样本的月份不显示空想活动。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "活动合影，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/5/202505261415044579.jpeg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/5/202505261415044579.jpeg",
+      "path": "UploadFiles/xwzx/2025/5/202505261415044579.jpeg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "校史展陈参观，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/4/202504211558413284.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/4/202504211558413284.jpg",
+      "path": "UploadFiles/xwzx/2025/4/202504211558413284.jpg"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "舞台演讲，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/4/202504090906467127.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2025-jan-sep/blob/main/UploadFiles/xwzx/2025/4/202504090906467127.jpg",
+      "path": "UploadFiles/xwzx/2025/4/202504090906467127.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
